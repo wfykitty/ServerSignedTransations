@@ -3,9 +3,8 @@ This demo shows how to send a server signed transaction in Ethereum, with confir
 
  
 ![Alt Text](https://img.techpowerup.org/200618/1.png)
-
 ### Instructions
 - Update port number.
-- Update new contract address and ABI once deploployed.
+- Update new contract address and ABI after deploployed.
 - open 'http://localhost:3000/'.
 - Refresh the page to see the output in the console.
