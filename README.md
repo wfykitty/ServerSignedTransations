@@ -1,9 +1,7 @@
 # Server Signed Transations
 This demo shows how to send a server signed transaction in Ethereum, with confirmation receipt:
-
- 
 ![Alt Text](https://img.techpowerup.org/200618/1.png)
-### Instructions
+### How to run 
 - Update port number.
 - Update new contract address and ABI after deploployed.
 - open 'http://localhost:3000/'.
